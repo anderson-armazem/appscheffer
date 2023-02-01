@@ -136,6 +136,7 @@ select{
     /*background-color: blue;*/
     border: solid 0.3px honeydew;
     color: darkgoldenrod;
+    outline: none;
 }
 input[type=submit]{
     border-radius: 20px;
