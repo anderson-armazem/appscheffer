@@ -88,6 +88,7 @@ input{
     outline: none;
     width: 220px;
     border-radius: 15px;
+     padding-left: 15px;
 }
 input.conjunto1{
     border:0px;
