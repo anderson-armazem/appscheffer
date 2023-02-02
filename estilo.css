@@ -198,3 +198,19 @@ form{
 }
 /*Classificação: Inicio*/
 
+div.parte1{
+    width: 95%;
+    height: 430px;
+    background-color: blanchedalmond;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+div.parte2{
+    width: 95%;
+    height: 260px;
+    background-color: blanchedalmond;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
