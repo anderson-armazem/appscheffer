@@ -26,7 +26,7 @@ header{
     align-items: center;
 }
 h1.cabeçalho{
-    font-size: 15pt;
+    font-size: 13pt;
     text-align: center;
     color: rgb(109, 109, 109);
 }
@@ -47,7 +47,13 @@ div.menu{
     background-color: burlywood;
     border-radius: 100%;
     margin-left: 10px;
-    margin-right: 10px;;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 9pt;
+    font-weight: bolder;
+    color:#ecf0f3;
 }
 
 h2{
@@ -213,4 +219,9 @@ div.parte2{
     margin-left: auto;
     margin-right: auto;
     border-radius: 15px;
+}
+a{
+    text-decoration: none;
+    color:#ecf0f3;
+    cursor: pointer;
 }
