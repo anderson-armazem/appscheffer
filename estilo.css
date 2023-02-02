@@ -36,6 +36,10 @@ header{
     border-end-end-radius: 15px;
     color: #ecf0f3;
 }
+img{
+    width: 150px;
+    height: auto;
+}
 h1.cabeçalho{
     font-size: 13pt;
     text-align: center;
